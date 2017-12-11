@@ -1,3 +1,9 @@
+# Depricated
+
+The goal of this repo was trasitional until the Concourse community supported a release manifest. Gladly as of 3.8, that is a reality. 
+
+This deployment manifest is depricated. See: https://github.com/concourse/concourse-deployment for the currently maintained deployment. 
+
 # Bosh 2.0 Concourse Manifest
 
 ## Directory Structure on Local Workstation
